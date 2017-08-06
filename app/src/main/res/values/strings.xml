@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Weather Viewer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="web_service_url">http://api.openweathermap.org/data/2.5/forecast/daily?q=</string>
+    <string name="invalid_url">Invalid URL</string>
+    <string name="weather_condition_image">A graphical representation of the weather conditions</string>
+    <string name="high_temp">High: %s</string>
+    <string name="low_temp">Low: %s</string>
+    <string name="day_description">%1$s: %2$s</string>
+    <string name="humidity">Humidity: %s</string>
+    <string name="hint_text">Enter city (e.g, Boston, MA, US)</string>
+    <string name="read_error">Unable to read weather data</string>
+    <string name="connect_error">Unable to connect to OpenWeatherMap.org</string>
+    <string name="editTextHint">enter your city</string>
+    <string name="snackbar_hint">Find place</string>
+    <string name="title_night">Night</string>
+    <string name="weather_icon_description">WeatherIcon</string>
+    <string name="wind_direction_picture_descr">wind_direction_icon</string>
+    <string name="morning_title">Morning</string>
+    <string name="day_title">Day</string>
+    <string name="evening_title">Evening</string>
+    <string name="error_message">Application needs Internet</string>
+
+</resources>
